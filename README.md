@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hikmatulloh</h1>
-<h3 align="center">Software developer</h3>
-
 <img align="top-center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
